@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6495" started-at="2019-03-14T00:59:37Z" finished-at="2019-03-14T00:59:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6495" started-at="2019-03-14T00:59:37Z" finished-at="2019-03-14T00:59:44Z">
+      <class name="hu.hello">
+        <test-method status="PASS" signature="openfire()[pri:0, instance:hu.hello@1bc6a36e]" name="openfire" is-config="true" duration-ms="6222" started-at="2019-03-14T08:59:37Z" finished-at="2019-03-14T08:59:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openfire -->
+        <test-method status="PASS" signature="login()[pri:0, instance:hu.hello@1bc6a36e]" name="login" duration-ms="258" started-at="2019-03-14T08:59:43Z" finished-at="2019-03-14T08:59:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- hu.hello -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
